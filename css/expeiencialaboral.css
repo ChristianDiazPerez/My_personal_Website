@@ -558,7 +558,7 @@ hr {
 @media (max-width: 550px){
     .grid{
         grid-template-columns: 1fr 0.034fr 0.145fr;
-        grid-template-rows: 0.19fr 0.38fr 0.6fr 1fr 0fr 0.19fr 0.19fr 0.38fr 0.6fr 1fr 1fr 0.19fr;
+        grid-template-rows: 0.19fr 0.38fr 0.38fr 1fr 0fr 0.19fr 0.19fr 0.38fr 0.38fr 1fr 1fr 0.19fr;
     }
     /***********************/
     .titulo2{
@@ -592,7 +592,9 @@ hr {
     .logo2{
         grid-row: 3;
         grid-column: 1;
+        width: 70%;    /*Hacer solo esta imagen mas pequeña*/
     }
+    
     .fondo-blanco2{
         grid-row: 2/6;
         grid-column: 1/3;
