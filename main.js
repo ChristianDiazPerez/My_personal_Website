@@ -36,7 +36,7 @@ document.querySelector('.btm-pronto').addEventListener('click', () => {
 })
 
 if (window.location.pathname === "/proyectospersonales.html") {
-    const el = document.querySelector(".1");
+    const el = document.querySelector("#1");
     if (el) {
       el.style.cssText = "color: red;";
     }
