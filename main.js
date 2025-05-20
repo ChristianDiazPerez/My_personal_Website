@@ -34,3 +34,10 @@ btnCerrarModal.addEventListener("click",()=>{
 document.querySelector('.btm-pronto').addEventListener('click', () => {     
     alert('Hola mundo');
 })
+
+if (window.location.pathname === "/proyectospersonales") {
+    const el = document.querySelector(".1");
+    if (el) {
+      el.style.cssText = "color: red;";
+    }
+  }
