@@ -123,19 +123,22 @@ hr {
     text-align: center;
     padding-bottom: 5%;
     width: auto; 
-    color: #D5E64C;
+    color: #9DA651;
+    margin-top: 0;
 }
 .titulo_molido{
     text-align: center;
     padding-bottom: 5%;
     width: auto; 
-    color: #D5E64C;
+    color: #306CA8;
+    margin-top: 0;
 }
 .titulo_aplastado{
     text-align: center;
     padding-bottom: 5%;
     width: auto; 
-    color: #D5E64C;
+    color: #BC5C56;
+    margin-top: 0;
 }
 .video{
     
@@ -179,8 +182,8 @@ hr {
 }
 .grafect{
     margin: 0 auto;
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 70%;
     
 }
 
