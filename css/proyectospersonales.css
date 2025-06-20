@@ -175,7 +175,7 @@ hr {
 
 .showcase1 {
     width: 100%;
-    background: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)),url(../img/separador_cajas_portada.jpg) no-repeat center center / cover;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),url(../img/separador_cajas_portada.jpg) no-repeat center center / cover;
     height: auto;
     min-height: 400px;
     padding: 50px;
